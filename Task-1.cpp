@@ -114,7 +114,7 @@ int main() {
     cout << "\n[2] COMPARING SORTING ALGORITHMS (DESCENDING WEIGHTS):" << endl;
     cout << "--------------------------------------------------" << endl;
 
-    // 💡 တခြားသူများနှင့် မတူစေရန် ဤအောက်က အလေးချိန်ဂဏန်းများကို သင်ကြိုက်သလို ပြောင်းလဲနိုင်ပါသည်။
+    // 💡 
     double originalDataset[] = { 125.5, 58.0, 87.2, 210.0, 33.5, 145.0, 99.8, 66.1, 182.0, 75.0, 91.3, 130.2 };
     int n = sizeof(originalDataset) / sizeof(originalDataset[0]);
 
